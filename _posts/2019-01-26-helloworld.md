@@ -1,4 +1,4 @@
 ---
-categories: Personal
+categories: personal
 ---
 My first post
