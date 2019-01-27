@@ -107,8 +107,8 @@ analytics:
 author:
   name             : "Zhang Zitao"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Ruby/Rust Software/Web Developer"
-  location         : "Paris / Beijing"
+  bio              : "A Ruby/Rust Developer"
+  location         : "Paris&Beijing"
   email            :
   links:
     - label: "Email"
