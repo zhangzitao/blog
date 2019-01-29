@@ -1,6 +1,6 @@
 ---
 categories: [tech, DevOps]
-title: Jekyll notes 
+title: Jekyll with Github-Page
 ---
 
 ### How to organize Categories and Tags
