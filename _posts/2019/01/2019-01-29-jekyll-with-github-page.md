@@ -1,5 +1,5 @@
 ---
-categories: DevOps
+categories: [tech, DevOps]
 title: Jekyll notes 
 ---
 
