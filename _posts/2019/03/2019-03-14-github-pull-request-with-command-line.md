@@ -2,13 +2,13 @@
 categories: [tech, Dev]
 ---
 
-### hub
+# hub
 
 We should use the command line tool **hub** of github
 
 [download hub here](https://github.com/github/hub/releases)
 
-### pull request usage
+# pull request usage
 
 ```
 Usage: hub pull-request [-focp] [-b <BASE>] [-h <HEAD>] [-r <REVIEWERS> ] [-a <ASSIGNEES>] [-M <MILESTONE>] [-l <LABELS>]
@@ -22,7 +22,7 @@ hub pull-request -b <remote origin>:<branch> -h <local branch>
 hub pull-request -b rustlang-cn:master -h master
 ```
 
-### text editor
+# text editor
 
 If we haven't set and text editor, terminal may report:
 ```
