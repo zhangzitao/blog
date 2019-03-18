@@ -1,5 +1,6 @@
 ---
 categories: [tech, Dev]
+tags: [git]
 ---
 
 # hub
