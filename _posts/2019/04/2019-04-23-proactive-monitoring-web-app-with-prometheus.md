@@ -1,3 +1,6 @@
+---
+categories: [tech, Dev]
+---
 
 Runing prometheus server, with your config file
 ```shell
