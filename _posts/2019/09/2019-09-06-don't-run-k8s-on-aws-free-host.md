@@ -13,4 +13,4 @@ Every thing looks fan but servaral hours later, error happened again...
 
 Because golang has GC, maybe the 2core 4G is the least configuration to run k8s.
 
-Hoping the container service could be re-write by any non-GC language such as rust.
+Hoping the container service could be re-written by any non-GC language such as rust.
