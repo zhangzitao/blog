@@ -74,4 +74,4 @@ So we should rebuild this to Microservice version:
 - config the remote api in env
 - implement the remote api in the service App
 
-In this way, We could easily run the authorize service by config, not by modifying the code.
+In this way, We could easily run the authorize service by config, not by modifying the code. Not with DB, The server will be very pure  and will be painless to maintain.
