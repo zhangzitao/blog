@@ -1,3 +1,8 @@
+---
+categories: [tech, DevOps]
+tags: [database]
+---
+
 Partition is seperated by a field key. But this field will **not** generate index on each partition table.
 We should create index manually.
 
